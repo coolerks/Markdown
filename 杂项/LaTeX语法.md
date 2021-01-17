@@ -66,3 +66,21 @@ $$
  \end{pmatrix}
 $$
 
+大括号
+
+```
+\begin{cases}
+1\\
+2\\
+3
+\end{cases}
+```
+
+$$
+\begin{cases}
+1\\
+2\\
+3
+\end{cases}
+$$
+
