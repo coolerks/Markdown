@@ -24,8 +24,8 @@
 |```vector<vector<l>>类型(n)```|初始化长度为n的空vector|
 |```v.assign(v2.begin(),v2.end())```|拷贝区间数据|
 |```v.resize(n1,n2)```|重新指定长度，指定长度为n1,n2为变长后填充的内容|
-|v.insert(begin()+n1,n2,n3)|在n1的位置插入n2个n3，省略n2，就代表在n1位置仅插入一个数n3|
-|v.swap(v2)|容器互换|
+|```v.insert(begin()+n1,n2,n3)```|在n1的位置插入n2个n3，省略n2，就代表在n1位置仅插入一个数n3|
+|```v.swap(v2)```|容器互换|
 
 ##### 相关操作
 
